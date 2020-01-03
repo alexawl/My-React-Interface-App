@@ -6,4 +6,4 @@ class AddAppointments extends Component {
     }
 }
 
-export default AddAppointments
+export default AddAppointments;

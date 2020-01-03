@@ -6,4 +6,4 @@ class SearchAppointments extends Component {
     }
 }
 
-export default SearchAppointments
+export default SearchAppointments;
